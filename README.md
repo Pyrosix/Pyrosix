@@ -2,7 +2,7 @@
 - 👀 I’m interested in game design and development, cooking, rock climbing, and hiking
 - 🌱 I’m currently learning Javascript (Node.js specifically)
 - 💞️ I’m looking to collaborate on anything game related
-- 📫 How to reach me discord @Malcuvious#0946
+- 📫 readch me on discord @Malcuvious#0946
 
 <!---
 Pyrosix/Pyrosix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
