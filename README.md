@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pyrosix
 - 👀 I’m interested in game design and development, cooking, rock climbing, and hiking
-- 🌱 I’m currently learning Javascript (Node.js specifically)
+- 🌱 I’m currently learning Javascript (Node.js and React specifically)
 - 💞️ I’m looking to collaborate on anything game related
 - 📫 readch me on discord @Malcuvious#0946
 
